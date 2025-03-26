@@ -1,7 +1,7 @@
 # Loan-Repayment-Prediction
 DECISION TREES AND  RANDOM FOREST
 ---
-This repository focuses on predicting loan default risk using Decision Trees and Random Forest techniques. It includes a comprehensive Jupyter notebook that covers:
+This repository focuses on predicting loan default risk using Decision Trees and Random Forest techniques(along with loan_data.csv). It includes a comprehensive Jupyter notebook that covers:
 
 📊 Data Exploration: Analyzing and cleaning the dataset for effective feature engineering.
 
